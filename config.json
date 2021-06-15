@@ -1,0 +1,20 @@
+{
+    "url":"",
+    "port" : 3000,
+    "file_limit": "50mb",
+    "mysql":
+    {
+        "host"     : "",
+        "user"     : "",
+        "password" : "",
+        "database" : ""
+    },
+
+    "ftp" :
+    {
+        "host": "",
+        "user": "",
+        "password": "",
+        "secure": false
+    }
+}
