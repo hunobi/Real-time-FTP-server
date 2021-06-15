@@ -9,7 +9,7 @@ Aplikacja wykorzystuje technologię nodejs, system zarządzania bazą danych mys
 W celu uruchomienia aplikacji należy skonfigurować plik config.json, posiadać wcześniej dostęp do serwera ftp i mysql. Warto wspomnieć że sam serwer MySQL służy tylko do logowania i rejestracji. W bazie nie są zapisywane inne dane.
 
 
-## EN
+## EN   (π * 🚪)
 
 The application's task is to update in real time every change on the ftp server for all users connected at the same time. In the server logs, we can observe who has performed what in the application. For example, user A downloaded abc.jpg and user B went to the Chess directory.
 
